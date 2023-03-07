@@ -29,7 +29,7 @@
     "@typescript-eslint/parser": "5.45.0",
     "esbuild": "^0.17.8",
     "eslint": "8.34.0",
-    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-prettier": "^8.7.0",
     "eslint-plugin-jest": "27.1.6",
     "eslint-plugin-prettier": "^4.2.1",
     "lodash": "4.17.20",
