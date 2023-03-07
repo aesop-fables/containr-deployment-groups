@@ -43,7 +43,7 @@
   ],
   "dependencies": {
     "@aesop-fables/containr": "^0.2.3",
-    "@aesop-fables/containr-dynamofx": "../aesop-fables-containr-dynamofx-0.1.3.tgz",
+    "@aesop-fables/containr-dynamofx": "^0.1.4",
     "jest-mock-extended": "^3.0.1",
     "reflect-metadata": "^0.1.13",
     "@aws-sdk/client-dynamodb": "^3.267.0",

@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"@aesop-fables/containr-dynamofx@../aesop-fables-containr-dynamofx-0.1.3.tgz":
-  version "0.1.3"
-  resolved "../aesop-fables-containr-dynamofx-0.1.3.tgz#034613585059a4d0b9c1d5a1d9edee54804de899"
+"@aesop-fables/containr-dynamofx@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@aesop-fables/containr-dynamofx/-/containr-dynamofx-0.1.4.tgz#e60327d0336ac9914d4b3158572950cddd4b0ff1"
+  integrity sha512-6vo/gWGK8heDvzRKOPFTOsQ0g2rkDdZxjNMn7xNC3E4C9ZbofAQ02wOFmOJkgY5IhU7vJuR99RFdc/PyWM7QNg==
   dependencies:
     reflect-metadata "^0.1.13"
 
