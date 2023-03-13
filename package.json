@@ -51,6 +51,6 @@
     "@types/aws-lambda": "^8.10.110",
     "@aws-sdk/smithy-client": "^3.0.0",
     "@aws-sdk/types": "^3.0.0",
-    "aws-sdk": "^2.1311.0"
+    "aws-sdk": "^2.1333.0"
   }
 }
